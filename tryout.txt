@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .box{ width: 200px; height: 200px; background: red;
+            text-align: justify;
+            /* left,right,center*/
+            text-transform: capitalize;
+            /* lowercase , uppercase, capitalize*/
+            text-decoration: line-through;
+            /* underline,overline,line-through */
+            line-height: 1.9;
+            letter-spacing: 10px;
+            word-spacing: 20px;
+            font-size: 11px;
+            font-weight: bold;
+            font-style: italic;
+            font-family:'Times New Roman', Times, serif;
+            text-shadow: 4px 5px 4px green;
+            text-indent: 20px;
+        
+        }
+        .box p{ background: pink;}
+    </style>
+</head>
+<body>
+    <div class="box">
+        <p>Sajan Kafle Lorem ipsum dolor sit amet consectetur adipisicing </p>
+    </div>
+</body>
+</html>hh
